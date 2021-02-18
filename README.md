@@ -1,2 +1,2 @@
-# GameBoy-HelloWorld
+# Hello World
 Hello World for C4
